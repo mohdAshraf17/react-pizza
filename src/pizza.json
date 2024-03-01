@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "64c8e4aba483ebf4d0b97702",
+    "name": "Margherita",
+    "price": 400,
+    "size": "large",
+    "image": "/img/pizza1.avif"
+  },
+  {
+    "_id": "64c8e4aba483ebf4d0b97703",
+    "name": "Tomato Pizzas",
+    "price": 300,
+    "size": "small",
+    "image": "/img/pizza2.png"
+  },
+  {
+    "_id": "64c8e4aba483ebf4d0b97704",
+    "name": "Cheese Pizza",
+    "price": 500,
+    "size": "medium",
+    "image": "/img/pizza3.avif"
+  },
+  {
+    "_id": "64c8e4aba483ebf4d0b97705",
+    "name": "Vegetable Pizza",
+    "price": 250,
+    "size": "small",
+    "image": "/img/pizza4.png"
+  },
+  {
+    "_id": "64c8e4aba483ebf4d0b97706",
+    "name": "Paneer Pizza",
+    "price": 350,
+    "size": "large",
+    "image": "/img/pizza5.avif"
+  },
+  {
+    "_id": "64c8e4aba483ebf4d0b97707",
+    "name": "Hawaiian Pizza",
+    "price": 500,
+    "size": "large",
+    "image": "/img/pizza6.avif"
+  },
+  {
+    "_id": "64c8e4aba483ebf4d0b97708",
+    "name": "Margherita",
+    "price": 400,
+    "size": "large",
+    "image": "/img/pizza7.avif"
+  },
+  {
+    "_id": "64c8e4aba483ebf4d0b97709",
+    "name": "Uttapam Pizza",
+    "price": 400,
+    "size": "medium",
+    "image": "/img/pizza8.avif"
+  },
+  {
+    "_id": "64c8e4aba483ebf4d0b9770a",
+    "name": "Hawaiian Pizza",
+    "price": 150,
+    "size": "small",
+    "image": "/img/pizza9.avif"
+  },
+  {
+    "_id": "64c8e4aba483ebf4d0b9770b",
+    "name": "Uttapam Pizza",
+    "price": 400,
+    "size": "large",
+    "image": "/img/pizza10.avif"
+  }
+]
